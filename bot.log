@@ -1,0 +1,53 @@
+2026-05-13 15:19:10,639 - __main__ - INFO - Bot ishga tushmoqda...
+2026-05-13 15:20:53,548 - __main__ - INFO - Bot ishga tushmoqda...
+2026-05-13 15:21:14,812 - __main__ - INFO - Bot ishga tushmoqda...
+2026-05-13 15:21:19,167 - __main__ - INFO - Bot ishga tushdi: @ZakazBotUz_Bot
+2026-05-13 15:21:19,306 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x0000020760EE9F50>
+2026-05-13 15:21:19,307 - asyncio - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x0000020760E7ECF0>, 4366.828)])']
+connector: <aiohttp.connector.TCPConnector object at 0x0000020760EE9E10>
+2026-05-13 15:23:15,496 - __main__ - INFO - Bot ishga tushmoqda...
+2026-05-13 15:23:16,931 - __main__ - INFO - Bot ishga tushdi: @ZakazBotUz_Bot
+2026-05-13 15:23:17,058 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x00000271AC23A390>
+2026-05-13 15:23:17,058 - asyncio - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x00000271AC1CECF0>, 4484.593)])']
+connector: <aiohttp.connector.TCPConnector object at 0x00000271AC23A250>
+2026-05-13 15:24:28,033 - __main__ - INFO - Bot ishga tushmoqda...
+2026-05-13 15:24:29,582 - __main__ - INFO - Bot ishga tushdi: @ZakazBotUz_Bot
+2026-05-13 15:24:29,751 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x0000016D6FCAA350>
+2026-05-13 15:24:29,752 - asyncio - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x0000016D6FC3ECF0>, 4557.25)])']
+connector: <aiohttp.connector.TCPConnector object at 0x0000016D657C35D0>
+2026-05-13 15:25:38,339 - __main__ - INFO - Bot ishga tushmoqda...
+2026-05-13 15:25:39,539 - __main__ - INFO - Bot ishga tushdi: @ZakazBotUz_Bot
+2026-05-13 15:25:39,539 - __main__ - INFO - Konfiguratsiya tekshirilmoqda...
+2026-05-13 15:25:39,812 - __main__ - INFO - ✅ Guruh topildi: ꗄ ズ丹Ｋ丹乙 乃口匕 ꗄ (id=-1003998340018)
+2026-05-13 15:25:40,288 - __main__ - INFO - ✅ Bot holati guruhda: ChatMemberStatus.ADMINISTRATOR
+   GROUP_ID              = -1003998340018
+   BUYURTMA_BERISH_ID    = 4
+   ZAKAZ_BERILGAN_BOTLAR = 3
+   MIJOZLAR_FIKRI_ID     = 8
+2026-05-13 15:25:40,289 - aiogram.dispatcher - INFO - Start polling
+2026-05-13 15:25:40,612 - aiogram.dispatcher - INFO - Run polling for bot @ZakazBotUz_Bot id=8827659709 - 'Zakaz Bot Uz'
+2026-05-13 15:25:51,117 - aiogram.event - INFO - Update id=130547609 is handled. Duration 1280 ms by bot id=8827659709
+2026-05-13 15:25:52,829 - aiogram.event - INFO - Update id=130547610 is handled. Duration 265 ms by bot id=8827659709
+2026-05-13 15:26:06,341 - aiogram.event - INFO - Update id=130547611 is handled. Duration 172 ms by bot id=8827659709
+2026-05-13 15:26:09,274 - aiogram.event - INFO - Update id=130547612 is handled. Duration 280 ms by bot id=8827659709
+2026-05-13 15:26:48,762 - aiogram.event - INFO - Update id=130547613 is handled. Duration 375 ms by bot id=8827659709
+2026-05-13 15:26:51,910 - aiogram.event - INFO - Update id=130547614 is handled. Duration 250 ms by bot id=8827659709
+2026-05-13 15:26:54,731 - aiogram.event - INFO - Update id=130547615 is handled. Duration 405 ms by bot id=8827659709
+2026-05-13 15:27:01,948 - aiogram.event - INFO - Update id=130547616 is handled. Duration 328 ms by bot id=8827659709
+2026-05-13 15:27:04,387 - aiogram.event - INFO - Update id=130547617 is handled. Duration 344 ms by bot id=8827659709
+2026-05-13 15:27:07,005 - handlers.order_handler - INFO - Yangi buyurtma qabul qilindi: ORD-90014B0C - user: 7435391786
+2026-05-13 15:27:07,005 - aiogram.event - INFO - Update id=130547618 is handled. Duration 515 ms by bot id=8827659709
+2026-05-13 15:27:23,619 - aiogram.event - INFO - Update id=130547619 is handled. Duration 171 ms by bot id=8827659709
+2026-05-13 15:27:31,048 - aiogram.event - INFO - Update id=130547620 is handled. Duration 125 ms by bot id=8827659709
+2026-05-13 15:27:44,854 - aiogram.event - INFO - Update id=130547621 is not handled. Duration 15 ms by bot id=8827659709
+2026-05-13 15:52:08,970 - aiogram.dispatcher - INFO - Polling stopped
+2026-05-13 15:52:08,972 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-05-13 15:52:08,973 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8827659709)
+2026-05-13 15:52:09,228 - __main__ - INFO - Bot to'xtatildi.
+2026-05-13 15:52:09,230 - aiogram.dispatcher - INFO - Polling stopped for bot @ZakazBotUz_Bot id=8827659709 - 'Zakaz Bot Uz'
